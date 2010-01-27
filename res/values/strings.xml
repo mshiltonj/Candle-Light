@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CandleLight!</string>
+    <string name="app_name">Candle Light</string>
+    <string name="menu_about">About</string>
+    <string name="menu_quit">Quit</string>
+    <string name="menu_color">Color</string>
+    <string name="color_label">Select Candle Color...</string>
+</resources>

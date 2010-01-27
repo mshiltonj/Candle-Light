@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView 
+    android:id="@+id/about_title"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="About Candle Light..."
+    />
+    
+ <TextView 
+    android:id="@+id/about_body"  
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" 
+    android:text="This candle light app lets you have a candle light dinner 
+    when you don't have any candles. 
+    Just turn on the app, 
+    set your phone on the table, 
+    and enjoy your dinner."
+    />  
+</LinearLayout>
