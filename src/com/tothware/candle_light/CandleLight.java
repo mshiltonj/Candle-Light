@@ -29,7 +29,7 @@ public class CandleLight extends Activity implements Callback, OnClickListener,
 
 	private static final int MENU_ABOUT = Menu.FIRST;
 	private static final int MENU_QUIT = Menu.FIRST + 1;
-	private static final int MENU_COLOR = Menu.FIRST + 2;
+	private static final int MENU_COLOR = Menu.FIRST + 2; 
 
 	private static final int ABOUT_ACTION = 1;
 	private static final int COLOR_ACTION = 2;
